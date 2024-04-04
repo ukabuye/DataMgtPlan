@@ -5,8 +5,7 @@ This repository contains the Data Management Plan (DMP) for the project on disea
 ## Contents
 
 - `README.md`: This file provides an overview of the repository and the Data Management Plan.
-- `Usamah_DMP.pdf`: The PDF document that contains the detailed Data Management Plan.
-- `Usamah_DMP.docx`: The Word document version of the Data Management Plan.
+- `Usamah_DMP.pdf`: The PDF document that contains a brief description of the project and a detailed Data Management Plan.
 
 ## Data Management Plan
 
@@ -36,5 +35,5 @@ The Data Management Plan outlines the following key aspects:
 
 ## Accessing the Data Management Plan
 
-To access the detailed Data Management Plan, please refer to the `Usamah_DMP.pdf` or `Usamah_DMP.docx` files in this repository.
+To access the detailed Data Management Plan, please refer to the `Usamah_DMP.pdf` file in this repository.
 
